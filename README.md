@@ -1,6 +1,15 @@
 # About Me:
-Hi, I’m Mohit — an AI/ML engineer and backend developer passionate about building intelligent systems and scalable backend solutions. I enjoy working with large language models, improving AI responses through prompt engineering, and developing APIs that power real-world applications.<br><br>Currently, I’m pursuing my M.Tech in Computer Engineering while deepening my experience in AI systems, model evaluation, and backend development. I’m always interested in exploring new technologies and building solutions that combine machine learning with practical software engineering.<br><br>Current Focus<br><br>Working with Large Language Models (LLMs)<br><br>Prompt engineering and AI response evaluation<br><br>Building Python-based backend services and APIs<br><br>Exploring scalable AI systems and model optimization<br><br>Tech Stack<br><br>Languages: Python, SQL, JavaScript, Java<br>AI/ML: LLMs, Prompt Engineering, Model Evaluation, Data Analysis<br>Backend: REST APIs, Database Design, Performance Optimization<br>Tools & Cloud: Git, AWS, Azure, Agile, Jira<br><br>Collaboration Interests<br><br>I’m open to collaborating on projects related to:<br><br>AI/ML applications<br><br>LLM-powered tools and chatbots<br><br>Backend systems and APIs<br><br>Data-driven platforms<br><br>Fun Fact<br><br>I enjoy analyzing and improving AI-generated responses — finding ways to make models more accurate, reliable, and useful in real-world applications.
+🔭 I’m currently working on Large Language Models (LLMs), prompt engineering, and AI model evaluation
 
+🤝 I’m looking to collaborate on AI/ML projects, LLM applications, and backend development
+
+🧠 I’m looking for help with advanced LLM fine-tuning and building scalable AI systems
+
+🌱 I’m currently learning deep learning optimization, RLHF, and AI system architecture
+
+💬 Ask me about Python, AI/ML, LLMs, REST APIs, and backend development
+
+⚡ Fun fact: I enjoy analyzing and improving AI-generated responses
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/themohitwalia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/themohitwalia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitwalia8591@gmail.com ) 
